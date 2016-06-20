@@ -1,0 +1,2 @@
+# angularSeed
+Angular Js seed
